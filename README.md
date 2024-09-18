@@ -33,5 +33,6 @@ As a decision-maker :
 3. 69% of water collectors are women 
 4. 64% of crime victims in water collection-related crimes are women
 5. Most of water victim_gender-related crimes against women occur on Friday and Saturday, and at 22:00 at night
-6. 66% of queue line for water access across all provinces are females ,...etc
+6. 66% of queue line for water access across all provinces are females
+7. the type of improvement in Sokoto accounts for the highest cost is Drilling wells ,...etc
 
