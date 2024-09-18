@@ -10,13 +10,13 @@ manner that is not only accessible but also compelling, ensuring that the key me
 and impact, ensuring that the information provided drives informed decision-making and strategy formulation.
 My goal is to make complex data comprehensible, engaging, and actionable. I believe that by presenting My data in this manner, I will not only inform but also
 empower our stakeholders to understand and address the challenges we face in Maji Ndogo.
-#### in detail
+### In detail
 we need to
 1. See the key points of the survey results so I understand the overall status of water access in Maji Ndogo.
 2. Know how many people are affected by water access challenges in Maji Ndogo and what those challenges are.
 3. Know how much money we will need to complete the upgrades, and where that money needs to be spent.
 4. Understand this data on a national level and a provincial level.
-## in improving the infrastructure level 
+### Improving the infrastructure level 
 We need to see,
 As a decision-maker :
 1. How far is the project?
@@ -25,5 +25,13 @@ As a decision-maker :
 4. What the money was spent on?
 5. Will we have enough money to complete the project?
 6. Where can we cut costs?
-7. I want to see data at the national, provincial and town level.
+7. I want to see national, provincial, and town data.
+
+### Kay insights:
+Population 28M ,most people live in sokoto provinve 
+Total cost to improve the infrastructure 154.49M and the budget is 146.74M
+69% of water collectors are women 
+64% of crime victims in water collection-related crimes are women
+Most of water victim_gender-related crimes against women occur on Friday and Saturday, and at 22:00 at night
+66% of queue line for water access across all provinces are females
 
