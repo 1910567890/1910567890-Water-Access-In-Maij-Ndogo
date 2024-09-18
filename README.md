@@ -28,10 +28,10 @@ As a decision-maker :
 7. I want to see national, provincial, and town data.
 
 ### Kay insights:
-Population 28M ,most people live in sokoto provinve 
-Total cost to improve the infrastructure 154.49M and the budget is 146.74M
-69% of water collectors are women 
-64% of crime victims in water collection-related crimes are women
-Most of water victim_gender-related crimes against women occur on Friday and Saturday, and at 22:00 at night
-66% of queue line for water access across all provinces are females
+1. Population 28M ,most people live in sokoto provinve 
+2. Total cost to improve the infrastructure 154.49M and the budget is 146.74M
+3. 69% of water collectors are women 
+4. 64% of crime victims in water collection-related crimes are women
+5. Most of water victim_gender-related crimes against women occur on Friday and Saturday, and at 22:00 at night
+6. 66% of queue line for water access across all provinces are females ,...etc
 
